@@ -14,5 +14,6 @@
 
     <modules>
         <module>java-language</module>
+        <module>algorithm</module>
     </modules>
 </project>
